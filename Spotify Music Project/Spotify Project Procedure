@@ -1,0 +1,12 @@
+1. Collect Open-source Data from Kaggle (https://www.kaggle.com/siropo/spotify-multigenre-playlists-data)
+
+2. Clean Data on Jupyter Notebook
+    - Remove index values track_href, uri, analysis_url
+    - Remove NaN values in index "Genres"
+    - Save Cleansed Data as new .csv file
+    
+3. Export all data from .csv to .xlsx for easy join and union on Tableau
+
+4. Complete a full in depth EDA on Tableau with Interactive Dashboards
+
+5. Take snapshots of EDA and find conclusion based off analysis carried out on Tableau & Jupyter Notebook
